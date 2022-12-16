@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leroyhj&label=Profile%20views&color=0e75b6&style=flat" alt="leroyhj" /> </p>
 
-### [My CV](https://github.com/LeroyHJ/CV)
-
 - 🌱 I’m currently learning **React, SASS & Ruby on Rails**
 
 - 💬 Ask me about **Web development, Game development & building computers**
@@ -13,6 +11,8 @@
 - 📫 How to reach me **leroy_jallow_@hotmail.co.uk**
 
 - ⚡ Fun fact **Love sports, travelling and currently building my own pc!**
+
+### [My CV](https://github.com/LeroyHJ/CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
