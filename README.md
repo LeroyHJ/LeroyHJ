@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leroyhj&label=Profile%20views&color=0e75b6&style=flat" alt="leroyhj" /> </p>
 
-- 🌱 I’m currently learning **React, SASS, Ruby on Rails & Typescript**
+- 🌱 I’m currently learning **React, SASS & Ruby on Rails**
 
 - 💬 Ask me about **Web development, Game development & building computers**
 
